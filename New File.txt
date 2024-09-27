@@ -1,0 +1,4 @@
+class cons;
+virtual tas send();
+$display("drives good pkt");
+endclass
